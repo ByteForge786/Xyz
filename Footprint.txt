@@ -28,3 +28,11 @@ Yes, **quantization absolutely contributes toward SDG 13 (Climate Action)** and 
 - This aligns with **sustainable finance goals**, ensuring that AI adoption doesn't come at the cost of environmental degradation.  
 
 Even **Google, OpenAI, and Meta** use quantization to improve AI efficiency and **reduce carbon footprints** in large-scale deployments. Your work in **LLM quantization** is a **real-world application of sustainable AI**, making investment banking **more eco-friendly and SDG-aligned**.
+
+
+
+
+
+As **AI adoption accelerates in investment banking**, powering **automated trading, risk analysis, and ESG evaluation**, it also brings a hidden cost—**rising carbon footprints**. Large AI models demand **massive computational power**, straining GPUs and data centers, leading to **higher energy consumption and emissions**.  
+
+A key solution to this challenge is **AI model quantization**—reducing model precision, such as converting LLMs to **8-bit**. This drastically **lowers power usage, speeds up computations, and reduces strain on hardware**, making AI both **faster and more energy-efficient**. By embracing quantization, investment banks can scale AI responsibly, cutting carbon footprints while maintaining **high-performance AI-driven insights**, ensuring a **greener, more sustainable future in finance**.
